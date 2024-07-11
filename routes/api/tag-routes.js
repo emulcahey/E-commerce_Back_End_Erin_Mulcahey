@@ -41,9 +41,13 @@ router.get('/:id', async (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new tag
-  Tag.create({
-    tag_name: req.body.tag_name
+  Tag.create(req.body)
+  .then((tag) => {
+    res.json(tag);
   })
+  .catch((err) => {
+    res.json(err);
+  });
 });
 
 router.put('/:id', (req, res) => {
@@ -52,6 +56,12 @@ router.put('/:id', (req, res) => {
     where: {
       id: req.params.id
     }
+  })
+  .then((tag) => {
+    res.json(tag);
+  })
+  .catch((err) => {
+    res.json(err);
 });
 });
 
@@ -62,6 +72,12 @@ router.delete('/:id', (req, res) => {
       id: req.params.id
     }
   })
+  .then((tag) => {
+    res.json(tag);
+  })
+  .catch((err) => {
+    res.json(err);
+  });
 });
 
 module.exports = router;
