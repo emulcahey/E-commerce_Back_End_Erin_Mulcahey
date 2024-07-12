@@ -17,7 +17,7 @@ A user can use this program to help them handle data from multiple tables. This 
 ![alt text](images/previewCodeCategoryByID.png)
 ![alt text](images/productsTablepgAdmin.png)
 
-Walkthrough Video: [Click This Link]([https://](https://drive.google.com/file/d/1Q09le0H6umRLHuTh3An6lF304lO4LfHK/view?usp=drive_link))
+Walkthrough Video: [Click This Link](https://drive.google.com/file/d/1Q09le0H6umRLHuTh3An6lF304lO4LfHK/view?usp=drive_link)
 
 ## Credits
 
