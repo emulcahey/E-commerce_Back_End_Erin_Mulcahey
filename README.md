@@ -12,10 +12,10 @@ To use this program, the user will need to: -Clone this repository. And, open th
 
 A user can use this program to help them handle data from multiple tables. This application allows the user to add, edit, and delete items within the tables. A user can choose to create data, edit data, delete data, or view all the data in multiple ways. 
 
-![alt text](assets/images/screenshot.png)
-![alt text](assets/images/screenshot.png)
-![alt text](assets/images/screenshot.png)
-![alt text](assets/images/screenshot.png)
+![alt text](images/InsomniaFolders.png)
+![alt text](images/createProductPostInsomnia.png)
+![alt text](images/previewCodeCategoryByID.png)
+![alt text](images/productsTablepgAdmin.png)
 
 Walkthrough Video: [Click This Link]([https://](https://drive.google.com/file/d/1Q09le0H6umRLHuTh3An6lF304lO4LfHK/view?usp=drive_link))
 
